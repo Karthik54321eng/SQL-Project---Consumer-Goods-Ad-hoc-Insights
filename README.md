@@ -15,15 +15,21 @@ However, due to limitations in their existing data systems, deriving actionable 
 📌d)Objective :
 
 1)To analyze Atliq Hardware's customers and products, along with their respective sales quantities & gross sales across various regions.
+
 2)This project focuses on answering those 10 ad-hoc business questions using structured data from the company's database. 
+
 3)The goal is to deliver clear, actionable insights to support executive planning and strategic decision-making.
 
 🛠️e)Tools :
 
 1)SQL (MySQL) – For data exploration and transformation
+
 2)DBMS – MySQL Workbench for querying and managing data
+
 3)Power BI - To create charts & visuals.
+
 4)Canva - For Making Presentation.
+
 5)Veed - For Video Editing.
 
 🗃️f)Database Overview :
@@ -72,21 +78,34 @@ fiscal_year: Fiscal year of the sale.
 🖥️g)Presentation contains:
 
 1)About Atliq Company,
+
 2)Problem Statement,
+
 3)SQL Queries & Output
+
 4)Insights.
 
 
 🔍h)Insights :
 
-1)Highest sales - 20.46M(Nov-2020),Lowest Sales - 0.77M(Mar-2020). 
+1)Highest sales - 20.46M(Nov-2020),Lowest Sales - 0.77M(Mar-2020).
+
 2)The sold quantity in Q1 FY 2021 was nearly double that of Q1 FY 2020. 
+
 3)Retailers like Amazon, Flipkart contributed the highest gross sales (73%), followed by direct and distributor channels.
+
 4)In FY 2020, there are a total of 245 products, but in FY 2021, product count increased by 36% to 334 products. 
+
 5)Notebook,Peripherals & Accessories contribute to 80% of total products.
+
 6)In 2021,company offered nearly equal pre-invoice discount percentages to each of top 5 customers,given that Flipkart is the most discounted customer in the Indian market, which equals 30.83%.
+
 7)The sold quantity decreased to 2.1M in Q3 of FY 2020, which was actually March, April,May when COVID-19 was at its peak.
+
  Recovery Phase Q4 - Online Mode.
+ 
 8)The top 3 selling products in PC were personal laptops, which were around 25000 in quantity.
+
 9)The top 3 selling products in P&A were mouse, which were around 6 lakh in quantity.
+
 10)The top 3 selling products in PC were personal laptops, which were around 25000 in quantity.
