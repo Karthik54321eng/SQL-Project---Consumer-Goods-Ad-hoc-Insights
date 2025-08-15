@@ -1,4 +1,5 @@
 
+
 I recently completed a hands-on SQL challenge from Codebasics focused on real-world business scenarios in the consumer goods sector.
 
 Challenge Link : 
